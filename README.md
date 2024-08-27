@@ -39,7 +39,7 @@ Estou aberto a colaborações e feedback. Se você tiver sugestões ou quiser di
 
 - **Site**: [Marcos Aosf](https://aosfdev.netlify.app/)
 - **Email**: [marcosaosf2010@gmail.com](marcosaosf2010@gmail.com)
-- **LinkedIn**: [Ricardo Moura](https://www.linkedin.com/in/ricardomouradev/)
-- **WhatsApp**: [(47) 99216-4395](https://wa.me/5547992164395)
+- **LinkedIn**: [Marcos Aosf](https://www.linkedin.com/in/marcos-a-a24862262/)
+- **WhatsApp**: [(12) 99702-1454](https://wa.me/5512997021454)
 
 Obrigado por visitar meu portfólio!
