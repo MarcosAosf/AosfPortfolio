@@ -1,4 +1,4 @@
-# RM Developer │ Portfolio
+# Aosf Developer │ Portfolio
 
 # Imagem do Projeto
 ![imagem do projeto](./assets/image/rm-dev-portfolio2.0.png "Link Bio RM Dev 2.0")
@@ -38,7 +38,7 @@ O site foi construído utilizando uma variedade de tecnologias e ferramentas mod
 Estou aberto a colaborações e feedback. Se você tiver sugestões ou quiser discutir possíveis projetos, por favor, entre em contato comigo:
 
 - **Site**: [Marcos Aosf](https://aosfdev.netlify.app/)
-- **Email**: [contato@rmdeveloper.com.br](mailto:contato@rmdeveloper.com.br)
+- **Email**: [marcosaosf2010@gmail.com](marcosaosf2010@gmail.com)
 - **LinkedIn**: [Ricardo Moura](https://www.linkedin.com/in/ricardomouradev/)
 - **WhatsApp**: [(47) 99216-4395](https://wa.me/5547992164395)
 
