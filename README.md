@@ -1,7 +1,7 @@
 # Aosf Developer │ Portfolio
 
 # Imagem do Projeto
-![imagem do projeto](./assets/image/rm-dev-portfolio2.0.png "Link Bio RM Dev 2.0")
+
 
 Este repositório contém o código-fonte do meu site pessoal de portfólio, a Marcos Aosf | Dev. É uma vitrine digital onde apresento minhas habilidades e projetos como desenvolvedor web. O site demonstra minha abordagem ao desenvolvimento web, focando em design responsivo, interatividade e experiências de usuário otimizadas.
 
